@@ -5,8 +5,9 @@
 //  Created by Gustavo Parreira on 26/07/2020.
 //
 
+@import RNShareMenu;
+
 #import "ShareMenuManager.h"
-#import <RNShareMenu/RNShareMenu-Swift.h>
 
 #import <React/RCTLinkingManager.h>
 
